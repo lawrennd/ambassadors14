@@ -1,0 +1,12 @@
+# Site settings
+title: Cutler's Ambassadors Programme 
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  A session on Learning from Data designed for 15-16 year olds.
+baseurl: "/ambassadors14/" # the subpath of your site, e.g. /blog/
+url: "http://inverseprobability.com" # the base hostname & protocol for your site
+twitter_username: lawrennd
+github_username:  lawrennd
+
+# Build settings
+markdown: kramdown
